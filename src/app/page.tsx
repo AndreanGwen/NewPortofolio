@@ -1,4 +1,4 @@
-import HomePage from "@/Components/Commons/HomePage.tsx/HomePage";
+import HomePage from "@/Components/Page/HomePage.tsx/HomePage";
 import PageHeading from "@/Components/Commons/PageHeading/PageHeading";
 
 export default function Home() {
